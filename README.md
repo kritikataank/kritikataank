@@ -19,7 +19,8 @@ Ambassador, I use my skills to guide the community and help them grow their tech
 I'm passionate about finding solutions to help solve problems there is something really addictive about the feeling you get when you solve a bug that has been
 bugging you for days.
 
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" align ="left" style="width: 100%" />
+
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
 
 <br/>  
 
