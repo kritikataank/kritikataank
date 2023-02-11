@@ -11,23 +11,21 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
+||--||
+#### Glad to see you here!  
 
-<table border="0">
- <tr>
+I'm a driven second-year student studying computer science and engineering who has been programming since high school. As a Beta Microsoft Learn Student
+Ambassador, I use my skills to guide the community and help them grow their techstack.
    
-   ### Glad to see you here!  
-   I'm a driven second-year student studying computer science and engineering who has been programming since high school. As a Beta Microsoft Learn Student
-   Ambassador, I use my skills to guide the community and help them grow their techstack.
-   
-   I'm passionate about finding solutions to help solve problems there is something really addictive about the feeling you get when you solve a bug that has been
-   bugging you for days.  
- </tr>
- <tr>
-    <img src="https://avatars.githubusercontent.com/u/583231?v=4" align ="left" style="width: 100%" />
- </tr>
-</table>
-   
+I'm passionate about finding solutions to help solve problems there is something really addictive about the feeling you get when you solve a bug that has been
+bugging you for days.
 
+####
+
+<img src="https://avatars.githubusercontent.com/u/583231?v=4" align ="left" style="width: 100%" />
+
+||--||
+  
 <br/>  
 
 
