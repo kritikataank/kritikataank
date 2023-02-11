@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-||--||
+|||---|||
 #### Glad to see you here!  
 
 I'm a driven second-year student studying computer science and engineering who has been programming since high school. As a Beta Microsoft Learn Student
@@ -23,8 +23,7 @@ bugging you for days.
 ####
 
 <img src="https://avatars.githubusercontent.com/u/583231?v=4" align ="left" style="width: 100%" />
-
-||--||
+|||---|||
   
 <br/>  
 
