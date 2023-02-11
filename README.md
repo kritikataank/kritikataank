@@ -12,6 +12,7 @@
 </a>  
  
  <img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
+ 
 #### Glad to see you here!  
 
 I'm a driven second-year student studying computer science and engineering who has been programming since high school. As a Beta Microsoft Learn Student
