@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
  
- <img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
  
 #### Glad to see you here!  
 
@@ -21,14 +21,11 @@ Ambassador, I use my skills to guide the community and help them grow their tech
 I'm passionate about finding solutions to help solve problems there is something really addictive about the feeling you get when you solve a bug that has been
 bugging you for days.
 
-
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
@@ -40,7 +37,6 @@ bugging you for days.
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
