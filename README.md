@@ -15,7 +15,7 @@
  
 #### Glad to see you here!  
 
-I'm a driven second-year student studying computer science and engineering who has been programming since high school. As a Beta Microsoft Learn Student
+I'm a driven final-year student studying computer science and engineering who has been programming since high school. As a Beta Microsoft Learn Student
 Ambassador, I use my skills to guide the community and help them grow their techstack.
    
 I'm passionate about finding solutions to help solve problems there is something really addictive about the feeling you get when you solve a bug that has been
