@@ -1,6 +1,14 @@
-## Hello 👋, I'm Kritika Taank!  
-  
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+I'm [**Kritika**](https://gazijarin.com), a software engineer and machine learning enthusiast.
+
+I've Interned at [**@Nokia**](https://github.com/nokia), where I work with Kubernetes, Docker, and AWS to optimize scalable backend systems. Previously, I collaborated with [**@Omdena**](https://github.com/OmdenaAI) Berlin as a Junior Machine Learning Engineer, contributing to real-world AI solutions.
+
+I'm fascinated by large-scale, high-impact products and building scalable tech solutions that matter. 
+
+Outside of work, I'm drawn to the fantasy worlds of books. I run a [**studyblr**](https://www.tumblr.com/lasttwobrainlesscells?source=share) and create tech-related content to document and share my learning journey.
+
+#### Let's connect!
 <a href="https://github.com/kritikataank" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,31 +18,10 @@
 <a href="https://medium.com/@taank.kritika" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
- 
+ <a href="https://dev.to/kritikataank" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" style="margin-bottom: 5px;" />
+</a> 
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
- 
-#### Glad to see you here!  
-
-I'm a driven computer science and engineering graduate who has been programming since high school. As a Beta Microsoft Learn Student
-Ambassador, I use my skills to guide the community and help them grow their techstack.
-   
-I'm passionate about finding solutions to help solve problems there is something really addictive about the feeling you get when you solve a bug that has been
-bugging you for days.
-
-<br/>  
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>  
 
 <br/>  
 
