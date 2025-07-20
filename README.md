@@ -22,16 +22,3 @@ Outside of work, I'm drawn to the fantasy worlds of books. I run a [**studyblr**
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" style="margin-bottom: 5px;" />
 </a> 
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
-
-<br/>  
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kritikataank&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikataank&hide_border=true&layout=compact" align="left" style="width: 90%" />
-
-</td></tr></table>  
