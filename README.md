@@ -21,4 +21,3 @@ Outside of work, I'm drawn to the fantasy worlds of books. I run a [**studyblr**
  <a href="https://dev.to/kritikataank" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" style="margin-bottom: 5px;" />
 </a> 
-<img align="right" width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
