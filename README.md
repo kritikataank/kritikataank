@@ -6,7 +6,7 @@ I've Interned at [**@Nokia**](https://github.com/nokia), where I work with Kuber
 
 I'm fascinated by large-scale, high-impact products and building scalable tech solutions that matter. 
 
-Outside of work, I'm drawn to the fantasy worlds of books. I run a [**studyblr**](https://www.tumblr.com/lasttwobrainlesscells?source=share) and create tech-related content to document and share my learning journey.
+Outside of work, I'm drawn to the fantasy worlds of books. I run a [**studyblr**](https://www.tumblr.com/nopethatwasntme) and create tech-related content on [**Instagram**](https://www.instagram.com/itxxkritikataank/) to document and share my learning journey.
 
 #### Let's connect!
 <a href="https://github.com/kritikataank" target="_blank">
